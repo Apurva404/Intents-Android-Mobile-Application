@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"> Implicit Intents Assignment</string>
+    <string name="dialog_text">Dialog</string>
+
+    <string name="activity_a_label">Implicit Intents</string>
+
+    <string name="btn_launch_label">Launch</string>
+    <string name="btn_ring_label">Ring</string>
+    <string name="btn_close_app_label">Close App</string>
+
+    <string name="url_label">URL:</string>
+    <string name="phone_label">Phone:</string>
+
+</resources>
